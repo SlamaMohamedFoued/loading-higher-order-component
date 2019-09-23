@@ -1,0 +1,8 @@
+.movies {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.movie {
+  padding: 20px;
+}
